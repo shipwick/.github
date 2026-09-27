@@ -1,8 +1,8 @@
-**Production deployments, without Kubernetes.**
+**Production deployments on your own server.**
 
-Shipwick runs your Docker applications on your own server: health checks,
-zero-downtime deploys, rollbacks, resource limits and HTTPS, from one small
-config file.
+Shipwick runs your Docker applications on one Linux server: rolling deployments
+with health checks and rollback, HTTPS, scheduled jobs, backups, encrypted
+secrets, tokens with roles and a dashboard, from one small config file.
 
 | | |
 |---|---|
